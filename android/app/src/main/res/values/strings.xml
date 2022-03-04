@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">arafa</string>
+    <string name="facebook_app_id">630794014677409</string>
+    <string name="fb_login_protocol_scheme">fb630794014677409</string>
+    <string name="facebook_client_token">b986b3cf8085f1be8bf61f96cc027dad</string>
+
+
+</resources>
